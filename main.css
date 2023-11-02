@@ -232,12 +232,12 @@ p {
 
 /* Hero Section */
 #hero {
-    background-image: url(/imgs/fondo.jpg);
-    background-size: cover;
-    background-position: top center;
-    background-repeat: no-repeat;
-    position: relative;
-    z-index: 1;
+background-image: url(/imgs/fondo.jpg);
+background-size: cover;
+background-position: top center;
+background-repeat: no-repeat;
+position: relative;
+z-index: 1;
 }
 
 #hero::after {
@@ -534,6 +534,7 @@ p {
 /* \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\     
 
 /* About Section */
+
 #about {
 background-color: white;
 border: 2px solid #333;
